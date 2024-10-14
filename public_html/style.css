@@ -1,0 +1,20 @@
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+
+.nav-link:hover,
+.cola:hover{
+    background-color: rgb(244, 66, 134);
+    border-radius: 5px;padding-left: 15px;
+    color: blue;
+}
+.header-inscription{
+    background: url(imag/contact.jfif) no-repeat center center fixed !important;
+    background-size: cover !important;
+}
+.header-contact{
+    background: url(imag/blog.jfif) no-repeat center center fixed !important;
+    background-size: cover !important;
+}
